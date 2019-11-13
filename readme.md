@@ -46,7 +46,7 @@ export default {
     }
 }
 ```
- 
+
 iife:
 ``` js
 import { terser } from 'rollup-plugin-terser'
